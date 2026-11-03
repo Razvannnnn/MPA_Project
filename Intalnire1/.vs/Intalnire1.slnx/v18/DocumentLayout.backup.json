@@ -1,70 +1,98 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 1\\Intalnire1\\",
+  "WorkspaceRootPath": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 2\\Proiect\\Intalnire1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 1\\Intalnire1\\Intalnire1\\Migrations\\20261102181652_InitialCreate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Intalnire1\\Migrations\\20261102181652_InitialCreate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|c:\\users\\razva\\desktop\\fsega\\anul 1 sem 1\\mpa\\intalnirea 1\\intalnire1\\intalnire1\\data\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|solutionrelative:intalnire1\\data\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 1\\Intalnire1\\Intalnire1\\Controllers\\GenresController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Intalnire1\\Controllers\\GenresController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|c:\\users\\razva\\desktop\\fsega\\anul 1 sem 1\\mpa\\intalnirea 1\\intalnire1\\intalnire1\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|solutionrelative:intalnire1\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|c:\\users\\razva\\desktop\\fsega\\anul 1 sem 1\\mpa\\intalnirea 1\\intalnire1\\intalnire1\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|solutionrelative:intalnire1\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|c:\\users\\razva\\desktop\\fsega\\anul 1 sem 1\\mpa\\intalnirea 1\\intalnire1\\intalnire1\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|c:\\users\\razva\\desktop\\fsega\\anul 1 sem 1\\mpa\\intalnirea 2\\proiect\\intalnire1\\intalnire1\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|solutionrelative:intalnire1\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|c:\\users\\razva\\desktop\\fsega\\anul 1 sem 1\\mpa\\intalnirea 1\\intalnire1\\intalnire1\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|solutionrelative:intalnire1\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|c:\\users\\razva\\desktop\\fsega\\anul 1 sem 1\\mpa\\intalnirea 2\\proiect\\intalnire1\\intalnire1\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|solutionrelative:intalnire1\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|c:\\users\\razva\\desktop\\fsega\\anul 1 sem 1\\mpa\\intalnirea 1\\intalnire1\\intalnire1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|solutionrelative:intalnire1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|c:\\users\\razva\\desktop\\fsega\\anul 1 sem 1\\mpa\\intalnirea 1\\intalnire1\\intalnire1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|solutionrelative:intalnire1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|c:\\users\\razva\\desktop\\fsega\\anul 1 sem 1\\mpa\\intalnirea 1\\intalnire1\\intalnire1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|solutionrelative:intalnire1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|c:\\users\\razva\\desktop\\fsega\\anul 1 sem 1\\mpa\\intalnirea 1\\intalnire1\\intalnire1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|c:\\users\\razva\\desktop\\fsega\\anul 1 sem 1\\mpa\\intalnirea 2\\proiect\\intalnire1\\intalnire1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|solutionrelative:intalnire1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|c:\\users\\razva\\desktop\\fsega\\anul 1 sem 1\\mpa\\intalnirea 1\\intalnire1\\intalnire1\\migrations\\20261102175603_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|c:\\users\\razva\\desktop\\fsega\\anul 1 sem 1\\mpa\\intalnirea 2\\proiect\\intalnire1\\intalnire1\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|solutionrelative:intalnire1\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|c:\\users\\razva\\desktop\\fsega\\anul 1 sem 1\\mpa\\intalnirea 2\\proiect\\intalnire1\\intalnire1\\data\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|solutionrelative:intalnire1\\data\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|c:\\users\\razva\\desktop\\fsega\\anul 1 sem 1\\mpa\\intalnirea 2\\proiect\\intalnire1\\intalnire1\\models\\bookrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|solutionrelative:intalnire1\\models\\bookrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|c:\\users\\razva\\desktop\\fsega\\anul 1 sem 1\\mpa\\intalnirea 2\\proiect\\intalnire1\\intalnire1\\data\\libraryseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|solutionrelative:intalnire1\\data\\libraryseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|c:\\users\\razva\\desktop\\fsega\\anul 1 sem 1\\mpa\\intalnirea 2\\proiect\\intalnire1\\intalnire1\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|solutionrelative:intalnire1\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|c:\\users\\razva\\desktop\\fsega\\anul 1 sem 1\\mpa\\intalnirea 2\\proiect\\intalnire1\\intalnire1\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|solutionrelative:intalnire1\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|c:\\users\\razva\\desktop\\fsega\\anul 1 sem 1\\mpa\\intalnirea 2\\proiect\\intalnire1\\intalnire1\\models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|solutionrelative:intalnire1\\models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|c:\\users\\razva\\desktop\\fsega\\anul 1 sem 1\\mpa\\intalnirea 2\\proiect\\intalnire1\\intalnire1\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|solutionrelative:intalnire1\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|c:\\users\\razva\\desktop\\fsega\\anul 1 sem 1\\mpa\\intalnirea 2\\proiect\\intalnire1\\intalnire1\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|solutionrelative:intalnire1\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|c:\\users\\razva\\desktop\\fsega\\anul 1 sem 1\\mpa\\intalnirea 2\\proiect\\intalnire1\\intalnire1\\migrations\\20261102181652_initialcreate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|solutionrelative:intalnire1\\migrations\\20261102181652_initialcreate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|c:\\users\\razva\\desktop\\fsega\\anul 1 sem 1\\mpa\\intalnirea 2\\proiect\\intalnire1\\intalnire1\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|solutionrelative:intalnire1\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|c:\\users\\razva\\desktop\\fsega\\anul 1 sem 1\\mpa\\intalnirea 2\\proiect\\intalnire1\\intalnire1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|solutionrelative:intalnire1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|c:\\users\\razva\\desktop\\fsega\\anul 1 sem 1\\mpa\\intalnirea 2\\proiect\\intalnire1\\intalnire1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|solutionrelative:intalnire1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|c:\\users\\razva\\desktop\\fsega\\anul 1 sem 1\\mpa\\intalnirea 2\\proiect\\intalnire1\\intalnire1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|solutionrelative:intalnire1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|c:\\users\\razva\\desktop\\fsega\\anul 1 sem 1\\mpa\\intalnirea 2\\proiect\\intalnire1\\intalnire1\\migrations\\20261102175603_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|solutionrelative:intalnire1\\migrations\\20261102175603_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|c:\\users\\razva\\desktop\\fsega\\anul 1 sem 1\\mpa\\intalnirea 1\\intalnire1\\intalnire1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|c:\\users\\razva\\desktop\\fsega\\anul 1 sem 1\\mpa\\intalnirea 2\\proiect\\intalnire1\\intalnire1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|solutionrelative:intalnire1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|c:\\users\\razva\\desktop\\fsega\\anul 1 sem 1\\mpa\\intalnirea 1\\intalnire1\\intalnire1\\views\\home\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|c:\\users\\razva\\desktop\\fsega\\anul 1 sem 1\\mpa\\intalnirea 2\\proiect\\intalnire1\\intalnire1\\views\\home\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|solutionrelative:intalnire1\\views\\home\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|c:\\users\\razva\\desktop\\fsega\\anul 1 sem 1\\mpa\\intalnirea 1\\intalnire1\\intalnire1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|c:\\users\\razva\\desktop\\fsega\\anul 1 sem 1\\mpa\\intalnirea 2\\proiect\\intalnire1\\intalnire1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|solutionrelative:intalnire1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|c:\\users\\razva\\desktop\\fsega\\anul 1 sem 1\\mpa\\intalnirea 1\\intalnire1\\intalnire1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|c:\\users\\razva\\desktop\\fsega\\anul 1 sem 1\\mpa\\intalnirea 2\\proiect\\intalnire1\\intalnire1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|solutionrelative:intalnire1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|c:\\users\\razva\\desktop\\fsega\\anul 1 sem 1\\mpa\\intalnirea 2\\proiect\\intalnire1\\intalnire1\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F899E9A-0914-C459-5981-A6865706FC51}|Intalnire1\\Intalnire1.csproj|solutionrelative:intalnire1\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,78 +102,171 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 2\\Proiect\\Intalnire1\\Intalnire1\\Program.cs",
+              "RelativeDocumentMoniker": "Intalnire1\\Program.cs",
+              "ToolTip": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 2\\Proiect\\Intalnire1\\Intalnire1\\Program.cs",
+              "RelativeToolTip": "Intalnire1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T16:07:41.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 2\\Proiect\\Intalnire1\\Intalnire1\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Intalnire1\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 2\\Proiect\\Intalnire1\\Intalnire1\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Intalnire1\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wBUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T17:52:40.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 2\\Proiect\\Intalnire1\\Intalnire1\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "Intalnire1\\Models\\Author.cs",
+              "ToolTip": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 2\\Proiect\\Intalnire1\\Intalnire1\\Models\\Author.cs",
+              "RelativeToolTip": "Intalnire1\\Models\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T15:47:56.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookRow.cs",
+              "DocumentMoniker": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 2\\Proiect\\Intalnire1\\Intalnire1\\Models\\BookRow.cs",
+              "RelativeDocumentMoniker": "Intalnire1\\Models\\BookRow.cs",
+              "ToolTip": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 2\\Proiect\\Intalnire1\\Intalnire1\\Models\\BookRow.cs",
+              "RelativeToolTip": "Intalnire1\\Models\\BookRow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T16:21:05.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 2\\Proiect\\Intalnire1\\Intalnire1\\Views\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "Intalnire1\\Views\\Books\\Index.cshtml",
+              "ToolTip": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 2\\Proiect\\Intalnire1\\Intalnire1\\Views\\Books\\Index.cshtml",
+              "RelativeToolTip": "Intalnire1\\Views\\Books\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-03T16:25:59.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 2\\Proiect\\Intalnire1\\Intalnire1\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Intalnire1\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 2\\Proiect\\Intalnire1\\Intalnire1\\Models\\Book.cs",
+              "RelativeToolTip": "Intalnire1\\Models\\Book.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T17:50:17.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "20261102181652_InitialCreate2.cs",
-              "DocumentMoniker": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 1\\Intalnire1\\Intalnire1\\Migrations\\20261102181652_InitialCreate2.cs",
+              "DocumentMoniker": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 2\\Proiect\\Intalnire1\\Intalnire1\\Migrations\\20261102181652_InitialCreate2.cs",
               "RelativeDocumentMoniker": "Intalnire1\\Migrations\\20261102181652_InitialCreate2.cs",
-              "ToolTip": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 1\\Intalnire1\\Intalnire1\\Migrations\\20261102181652_InitialCreate2.cs",
+              "ToolTip": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 2\\Proiect\\Intalnire1\\Intalnire1\\Migrations\\20261102181652_InitialCreate2.cs",
               "RelativeToolTip": "Intalnire1\\Migrations\\20261102181652_InitialCreate2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-02T18:16:52.506Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "LibraryContext.cs",
-              "DocumentMoniker": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 1\\Intalnire1\\Intalnire1\\Data\\LibraryContext.cs",
+              "DocumentMoniker": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 2\\Proiect\\Intalnire1\\Intalnire1\\Data\\LibraryContext.cs",
               "RelativeDocumentMoniker": "Intalnire1\\Data\\LibraryContext.cs",
-              "ToolTip": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 1\\Intalnire1\\Intalnire1\\Data\\LibraryContext.cs",
+              "ToolTip": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 2\\Proiect\\Intalnire1\\Intalnire1\\Data\\LibraryContext.cs",
               "RelativeToolTip": "Intalnire1\\Data\\LibraryContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-02T18:15:52.433Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GenresController.cs",
-              "DocumentMoniker": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 1\\Intalnire1\\Intalnire1\\Controllers\\GenresController.cs",
-              "RelativeDocumentMoniker": "Intalnire1\\Controllers\\GenresController.cs",
-              "ToolTip": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 1\\Intalnire1\\Intalnire1\\Controllers\\GenresController.cs",
-              "RelativeToolTip": "Intalnire1\\Controllers\\GenresController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAArwBEAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 2\\Proiect\\Intalnire1\\Intalnire1\\Models\\Publisher.cs",
+              "RelativeDocumentMoniker": "Intalnire1\\Models\\Publisher.cs",
+              "ToolTip": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 2\\Proiect\\Intalnire1\\Intalnire1\\Models\\Publisher.cs",
+              "RelativeToolTip": "Intalnire1\\Models\\Publisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T18:12:17.459Z",
+              "WhenOpened": "2026-11-03T15:48:42.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 2\\Proiect\\Intalnire1\\Intalnire1\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Intalnire1\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 2\\Proiect\\Intalnire1\\Intalnire1\\Models\\Customer.cs",
+              "RelativeToolTip": "Intalnire1\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T15:49:11.758Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 1\\Intalnire1\\Intalnire1\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Intalnire1\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 1\\Intalnire1\\Intalnire1\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Intalnire1\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 2\\Proiect\\Intalnire1\\Intalnire1\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Intalnire1\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 2\\Proiect\\Intalnire1\\Intalnire1\\Models\\Order.cs",
+              "RelativeToolTip": "Intalnire1\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T16:13:02.153Z"
+              "WhenOpened": "2026-11-03T15:49:33.542Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 1\\Intalnire1\\Intalnire1\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "Intalnire1\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 1\\Intalnire1\\Intalnire1\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "Intalnire1\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-02T16:10:17.554Z"
+              "DocumentIndex": 6,
+              "Title": "LibrarySeed.cs",
+              "DocumentMoniker": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 2\\Proiect\\Intalnire1\\Intalnire1\\Data\\LibrarySeed.cs",
+              "RelativeDocumentMoniker": "Intalnire1\\Data\\LibrarySeed.cs",
+              "ToolTip": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 2\\Proiect\\Intalnire1\\Intalnire1\\Data\\LibrarySeed.cs",
+              "RelativeToolTip": "Intalnire1\\Data\\LibrarySeed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T15:54:14.665Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 1\\Intalnire1\\Intalnire1\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 2\\Proiect\\Intalnire1\\Intalnire1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Intalnire1\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 1\\Intalnire1\\Intalnire1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 2\\Proiect\\Intalnire1\\Intalnire1\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Intalnire1\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAB8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -153,23 +274,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 1\\Intalnire1\\Intalnire1\\Program.cs",
-              "RelativeDocumentMoniker": "Intalnire1\\Program.cs",
-              "ToolTip": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 1\\Intalnire1\\Intalnire1\\Program.cs",
-              "RelativeToolTip": "Intalnire1\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACQAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T16:07:41.817Z"
+              "DocumentIndex": 15,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 2\\Proiect\\Intalnire1\\Intalnire1\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Intalnire1\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 2\\Proiect\\Intalnire1\\Intalnire1\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Intalnire1\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-02T16:10:17.554Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 2\\Proiect\\Intalnire1\\Intalnire1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Intalnire1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 2\\Proiect\\Intalnire1\\Intalnire1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Intalnire1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T16:13:02.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Genre.cs",
-              "DocumentMoniker": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 1\\Intalnire1\\Intalnire1\\Models\\Genre.cs",
+              "DocumentMoniker": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 2\\Proiect\\Intalnire1\\Intalnire1\\Models\\Genre.cs",
               "RelativeDocumentMoniker": "Intalnire1\\Models\\Genre.cs",
-              "ToolTip": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 1\\Intalnire1\\Intalnire1\\Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 2\\Proiect\\Intalnire1\\Intalnire1\\Models\\Genre.cs",
               "RelativeToolTip": "Intalnire1\\Models\\Genre.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -178,24 +311,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BooksController.cs",
-              "DocumentMoniker": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 1\\Intalnire1\\Intalnire1\\Controllers\\BooksController.cs",
-              "RelativeDocumentMoniker": "Intalnire1\\Controllers\\BooksController.cs",
-              "ToolTip": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 1\\Intalnire1\\Intalnire1\\Controllers\\BooksController.cs",
-              "RelativeToolTip": "Intalnire1\\Controllers\\BooksController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBAAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 22,
+              "Title": "GenresController.cs",
+              "DocumentMoniker": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 2\\Proiect\\Intalnire1\\Intalnire1\\Controllers\\GenresController.cs",
+              "RelativeDocumentMoniker": "Intalnire1\\Controllers\\GenresController.cs",
+              "ToolTip": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 2\\Proiect\\Intalnire1\\Intalnire1\\Controllers\\GenresController.cs",
+              "RelativeToolTip": "Intalnire1\\Controllers\\GenresController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAArwBEAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T17:52:40.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-02T18:12:17.459Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "DemoController.cs",
-              "DocumentMoniker": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 1\\Intalnire1\\Intalnire1\\Controllers\\DemoController.cs",
+              "DocumentMoniker": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 2\\Proiect\\Intalnire1\\Intalnire1\\Controllers\\DemoController.cs",
               "RelativeDocumentMoniker": "Intalnire1\\Controllers\\DemoController.cs",
-              "ToolTip": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 1\\Intalnire1\\Intalnire1\\Controllers\\DemoController.cs",
+              "ToolTip": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 2\\Proiect\\Intalnire1\\Intalnire1\\Controllers\\DemoController.cs",
               "RelativeToolTip": "Intalnire1\\Controllers\\DemoController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -203,23 +335,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 1\\Intalnire1\\Intalnire1\\Models\\Book.cs",
-              "RelativeDocumentMoniker": "Intalnire1\\Models\\Book.cs",
-              "ToolTip": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 1\\Intalnire1\\Intalnire1\\Models\\Book.cs",
-              "RelativeToolTip": "Intalnire1\\Models\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T17:50:17.216Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "20261102175603_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 1\\Intalnire1\\Intalnire1\\Migrations\\20261102175603_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 2\\Proiect\\Intalnire1\\Intalnire1\\Migrations\\20261102175603_InitialCreate.cs",
               "RelativeDocumentMoniker": "Intalnire1\\Migrations\\20261102175603_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 1\\Intalnire1\\Intalnire1\\Migrations\\20261102175603_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 2\\Proiect\\Intalnire1\\Intalnire1\\Migrations\\20261102175603_InitialCreate.cs",
               "RelativeToolTip": "Intalnire1\\Migrations\\20261102175603_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -227,11 +347,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 1\\Intalnire1\\Intalnire1\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 2\\Proiect\\Intalnire1\\Intalnire1\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Intalnire1\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 1\\Intalnire1\\Intalnire1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 2\\Proiect\\Intalnire1\\Intalnire1\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Intalnire1\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -239,11 +359,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "Info.cshtml",
-              "DocumentMoniker": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 1\\Intalnire1\\Intalnire1\\Views\\Home\\Info.cshtml",
+              "DocumentMoniker": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 2\\Proiect\\Intalnire1\\Intalnire1\\Views\\Home\\Info.cshtml",
               "RelativeDocumentMoniker": "Intalnire1\\Views\\Home\\Info.cshtml",
-              "ToolTip": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 1\\Intalnire1\\Intalnire1\\Views\\Home\\Info.cshtml",
+              "ToolTip": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 2\\Proiect\\Intalnire1\\Intalnire1\\Views\\Home\\Info.cshtml",
               "RelativeToolTip": "Intalnire1\\Views\\Home\\Info.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -251,11 +371,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 1\\Intalnire1\\Intalnire1\\Controllers\\StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 2\\Proiect\\Intalnire1\\Intalnire1\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "Intalnire1\\Controllers\\StudentController.cs",
-              "ToolTip": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 1\\Intalnire1\\Intalnire1\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 2\\Proiect\\Intalnire1\\Intalnire1\\Controllers\\StudentController.cs",
               "RelativeToolTip": "Intalnire1\\Controllers\\StudentController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -263,11 +383,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 1\\Intalnire1\\Intalnire1\\Models\\Student.cs",
+              "DocumentMoniker": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 2\\Proiect\\Intalnire1\\Intalnire1\\Models\\Student.cs",
               "RelativeDocumentMoniker": "Intalnire1\\Models\\Student.cs",
-              "ToolTip": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 1\\Intalnire1\\Intalnire1\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 2\\Proiect\\Intalnire1\\Intalnire1\\Models\\Student.cs",
               "RelativeToolTip": "Intalnire1\\Models\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

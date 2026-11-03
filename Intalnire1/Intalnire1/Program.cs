@@ -1,3 +1,4 @@
+using Biblioteca.Data;
 using Microsoft.EntityFrameworkCore;
 var builder = WebApplication.CreateBuilder(args);
 var connectionString = builder.Configuration.GetConnectionString("LibraryContext") ?? throw new InvalidOperationException("Connection string 'LibraryContext' not found.");
@@ -8,6 +9,14 @@ builder.Services.AddDbContext<LibraryContext>(options => options.UseSqlServer(co
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
+
+using (var scope = app.Services.CreateScope())
+{
+    var db = scope.ServiceProvider.GetRequiredService<LibraryContext>();
+    db.Database.Migrate();          // aplică migrările (înlocuiește Update-Database)
+    LibrarySeed.Seed(db);
+}
+
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())

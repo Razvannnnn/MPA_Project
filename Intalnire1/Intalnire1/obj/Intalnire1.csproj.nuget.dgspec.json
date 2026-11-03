@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 1\\Intalnire1\\Intalnire1\\Intalnire1.csproj": {}
+    "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 2\\Proiect\\Intalnire1\\Intalnire1\\Intalnire1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 1\\Intalnire1\\Intalnire1\\Intalnire1.csproj": {
+    "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 2\\Proiect\\Intalnire1\\Intalnire1\\Intalnire1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 1\\Intalnire1\\Intalnire1\\Intalnire1.csproj",
+        "projectUniqueName": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 2\\Proiect\\Intalnire1\\Intalnire1\\Intalnire1.csproj",
         "projectName": "Intalnire1",
-        "projectPath": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 1\\Intalnire1\\Intalnire1\\Intalnire1.csproj",
+        "projectPath": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 2\\Proiect\\Intalnire1\\Intalnire1\\Intalnire1.csproj",
         "packagesPath": "C:\\Users\\razva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 1\\Intalnire1\\Intalnire1\\obj\\",
+        "outputPath": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 2\\Proiect\\Intalnire1\\Intalnire1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -61,6 +61,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[10.0.14, )"
+            },
+            "Microsoft.Extensions.ML": {
+              "target": "Package",
+              "version": "[5.0.1, )"
             },
             "System.Security.Cryptography.Pkcs": {
               "target": "Package",

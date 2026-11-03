@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="Intalnire1/Intalnire1.csproj" />
+  <Project Path="ML.Training/ML.Training.csproj" Id="1c5da80c-91f6-4d7f-bf2a-44cb39b66320" />
 </Solution>
