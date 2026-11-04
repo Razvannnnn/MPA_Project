@@ -8,9 +8,12 @@
     ".NETCoreApp,Version=v10.0": {
       "Intalnire1/1.0.0": {
         "dependencies": {
+          "Microsoft.AspNetCore.OpenApi": "10.0.14",
           "Microsoft.EntityFrameworkCore.SqlServer": "10.0.14",
           "Microsoft.EntityFrameworkCore.Tools": "10.0.14",
+          "Microsoft.Extensions.AI.OpenAI": "10.11.0",
           "Microsoft.Extensions.ML": "5.0.1",
+          "Scalar.AspNetCore": "2.18.7",
           "System.Security.Cryptography.Pkcs": "10.0.14"
         },
         "runtime": {
@@ -20,8 +23,8 @@
       "Azure.Core/1.50.0": {
         "dependencies": {
           "Microsoft.Bcl.AsyncInterfaces": "9.0.4",
-          "System.ClientModel": "1.8.0",
-          "System.Memory.Data": "8.0.1"
+          "System.ClientModel": "1.15.0",
+          "System.Memory.Data": "10.0.9"
         },
         "runtime": {
           "lib/net8.0/Azure.Core.dll": {
@@ -48,6 +51,17 @@
           "lib/net6.0/Humanizer.dll": {
             "assemblyVersion": "2.14.0.0",
             "fileVersion": "2.14.1.48190"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.OpenApi/10.0.14": {
+        "dependencies": {
+          "Microsoft.OpenApi": "2.12.2"
+        },
+        "runtime": {
+          "lib/net10.0/Microsoft.AspNetCore.OpenApi.dll": {
+            "assemblyVersion": "10.0.14.0",
+            "fileVersion": "10.0.1426.52326"
           }
         }
       },
@@ -500,6 +514,26 @@
           "Microsoft.EntityFrameworkCore.Design": "10.0.14"
         }
       },
+      "Microsoft.Extensions.AI.Abstractions/10.11.0": {
+        "runtime": {
+          "lib/net10.0/Microsoft.Extensions.AI.Abstractions.dll": {
+            "assemblyVersion": "10.11.0.0",
+            "fileVersion": "10.1100.26.51307"
+          }
+        }
+      },
+      "Microsoft.Extensions.AI.OpenAI/10.11.0": {
+        "dependencies": {
+          "Microsoft.Extensions.AI.Abstractions": "10.11.0",
+          "OpenAI": "2.14.0"
+        },
+        "runtime": {
+          "lib/net10.0/Microsoft.Extensions.AI.OpenAI.dll": {
+            "assemblyVersion": "10.11.0.0",
+            "fileVersion": "10.1100.26.51307"
+          }
+        }
+      },
       "Microsoft.Extensions.DependencyModel/10.0.14": {
         "runtime": {
           "lib/net10.0/Microsoft.Extensions.DependencyModel.dll": {
@@ -783,6 +817,14 @@
           }
         }
       },
+      "Microsoft.OpenApi/2.12.2": {
+        "runtime": {
+          "lib/net8.0/Microsoft.OpenApi.dll": {
+            "assemblyVersion": "2.12.2.0",
+            "fileVersion": "2.12.2.0"
+          }
+        }
+      },
       "Microsoft.SqlServer.Server/1.0.0": {
         "runtime": {
           "lib/netstandard2.0/Microsoft.SqlServer.Server.dll": {
@@ -818,14 +860,33 @@
           }
         }
       },
-      "System.ClientModel/1.8.0": {
+      "OpenAI/2.14.0": {
         "dependencies": {
-          "System.Memory.Data": "8.0.1"
+          "System.ClientModel": "1.15.0"
         },
         "runtime": {
-          "lib/net9.0/System.ClientModel.dll": {
-            "assemblyVersion": "1.8.0.0",
-            "fileVersion": "1.800.25.55302"
+          "lib/net10.0/OpenAI.dll": {
+            "assemblyVersion": "2.14.0.0",
+            "fileVersion": "2.14.0.0"
+          }
+        }
+      },
+      "Scalar.AspNetCore/2.18.7": {
+        "runtime": {
+          "lib/net10.0/Scalar.AspNetCore.dll": {
+            "assemblyVersion": "2.18.7.0",
+            "fileVersion": "2.18.7.0"
+          }
+        }
+      },
+      "System.ClientModel/1.15.0": {
+        "dependencies": {
+          "System.Memory.Data": "10.0.9"
+        },
+        "runtime": {
+          "lib/net10.0/System.ClientModel.dll": {
+            "assemblyVersion": "1.15.0.0",
+            "fileVersion": "1.1500.26.40403"
           }
         }
       },
@@ -920,11 +981,11 @@
           }
         }
       },
-      "System.Memory.Data/8.0.1": {
+      "System.Memory.Data/10.0.9": {
         "runtime": {
-          "lib/net8.0/System.Memory.Data.dll": {
-            "assemblyVersion": "8.0.0.1",
-            "fileVersion": "8.0.1024.46610"
+          "lib/net10.0/System.Memory.Data.dll": {
+            "assemblyVersion": "10.0.0.9",
+            "fileVersion": "10.0.926.27113"
           }
         }
       },
@@ -988,6 +1049,13 @@
       "sha512": "sha512-lQKvtaTDOXnoVJ20ibTuSIOf2i0uO0MPbDhd1jm238I+U/2ZnRENj0cktKZhtchBMtCUSRQ5v4xBCUbKNmyVMw==",
       "path": "humanizer.core/2.14.1",
       "hashPath": "humanizer.core.2.14.1.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.OpenApi/10.0.14": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3M6yO4nv8fmvM/1X7DqQcMxw/ptNLBcUzZt19SBEyfZF32gqZuwoPNnYd1xlDnFvQOGOkZDncf7p9E24blcTkQ==",
+      "path": "microsoft.aspnetcore.openapi/10.0.14",
+      "hashPath": "microsoft.aspnetcore.openapi.10.0.14.nupkg.sha512"
     },
     "Microsoft.Bcl.AsyncInterfaces/9.0.4": {
       "type": "package",
@@ -1094,6 +1162,20 @@
       "path": "microsoft.entityframeworkcore.tools/10.0.14",
       "hashPath": "microsoft.entityframeworkcore.tools.10.0.14.nupkg.sha512"
     },
+    "Microsoft.Extensions.AI.Abstractions/10.11.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-h4DX/TdJU4fk1GGaf19n6Kujkj6VXbGeL4UEOsQ8+ZJC5fVApPauokCtvBP684BYbczUYZQNfo1mbmyHG4WVSg==",
+      "path": "microsoft.extensions.ai.abstractions/10.11.0",
+      "hashPath": "microsoft.extensions.ai.abstractions.10.11.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.AI.OpenAI/10.11.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-p8fJdcPOrwaUPRrag5dY9SLohaouutY+bqg1Lw+8OOEFqMXvCHGNWQXv2GcUUNPBCkTR4mcBEHoP9LAV2RtxzA==",
+      "path": "microsoft.extensions.ai.openai/10.11.0",
+      "hashPath": "microsoft.extensions.ai.openai.10.11.0.nupkg.sha512"
+    },
     "Microsoft.Extensions.DependencyModel/10.0.14": {
       "type": "package",
       "serviceable": true,
@@ -1199,6 +1281,13 @@
       "path": "microsoft.ml.dataview/5.0.1",
       "hashPath": "microsoft.ml.dataview.5.0.1.nupkg.sha512"
     },
+    "Microsoft.OpenApi/2.12.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZkT7qiJe0Kj0+DTZOZo+xrDy1kNmdsWFQVPIQLNx9ZJ0T9cB2LG7r+Bi60so8/+yg1nkS7QCPadrzsTG4VPKrA==",
+      "path": "microsoft.openapi/2.12.2",
+      "hashPath": "microsoft.openapi.2.12.2.nupkg.sha512"
+    },
     "Microsoft.SqlServer.Server/1.0.0": {
       "type": "package",
       "serviceable": true,
@@ -1227,12 +1316,26 @@
       "path": "newtonsoft.json/13.0.4",
       "hashPath": "newtonsoft.json.13.0.4.nupkg.sha512"
     },
-    "System.ClientModel/1.8.0": {
+    "OpenAI/2.14.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-AqRzhn0v29GGGLj/Z6gKq4lGNtvPHT4nHdG5PDJh9IfVjv/nYUVmX11hwwws1vDFeIAzrvmn0dPu8IjLtu6fAw==",
-      "path": "system.clientmodel/1.8.0",
-      "hashPath": "system.clientmodel.1.8.0.nupkg.sha512"
+      "sha512": "sha512-AeyC3GxbrJ7KRoWDyFeNSUOQQWD9AnNvM7LYQijCcXcqjyr53aGRcf5GBLExcSBzIs0RWYHe+NbzPrHTeuU5zA==",
+      "path": "openai/2.14.0",
+      "hashPath": "openai.2.14.0.nupkg.sha512"
+    },
+    "Scalar.AspNetCore/2.18.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JrNu0Sm4TVeJ//ptvAS3yRbT0oobfR8qp0ecf3HIS9zX4V7uSABr+VYEyWT7uyXjhN2ZTrZ/cpwKv7zHjlK8Gg==",
+      "path": "scalar.aspnetcore/2.18.7",
+      "hashPath": "scalar.aspnetcore.2.18.7.nupkg.sha512"
+    },
+    "System.ClientModel/1.15.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-y6zQLInrpX+oGL1gXM04DrUSu1O1esWxt4rD/zrujTnzIFChn/noD1OiVVpTrU8ZvglwqO2Uw038svUR3SiAOg==",
+      "path": "system.clientmodel/1.15.0",
+      "hashPath": "system.clientmodel.1.15.0.nupkg.sha512"
     },
     "System.CodeDom/9.0.4": {
       "type": "package",
@@ -1297,12 +1400,12 @@
       "path": "system.identitymodel.tokens.jwt/7.7.1",
       "hashPath": "system.identitymodel.tokens.jwt.7.7.1.nupkg.sha512"
     },
-    "System.Memory.Data/8.0.1": {
+    "System.Memory.Data/10.0.9": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-BVYuec3jV23EMRDeR7Dr1/qhx7369dZzJ9IWy2xylvb4YfXsrUxspWc4UWYid/tj4zZK58uGZqn2WQiaDMhmAg==",
-      "path": "system.memory.data/8.0.1",
-      "hashPath": "system.memory.data.8.0.1.nupkg.sha512"
+      "sha512": "sha512-YweovHiLUoEdbr2Xv8eRqCSkTu1vMms4a6xBHaQiMSFVy32PL+hXv6Vhol2NWOmLHjaVgTyhJ3R52U6JxS6w3Q==",
+      "path": "system.memory.data/10.0.9",
+      "hashPath": "system.memory.data.10.0.9.nupkg.sha512"
     },
     "System.Numerics.Tensors/9.0.4": {
       "type": "package",

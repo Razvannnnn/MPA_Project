@@ -490,3 +490,10 @@ C:\Users\razva\Desktop\FSEGA\ANUL 1 SEM 1\MPA\Intalnirea 2\Proiect\Intalnire1\In
 C:\Users\razva\Desktop\FSEGA\ANUL 1 SEM 1\MPA\Intalnirea 2\Proiect\Intalnire1\Intalnire1\bin\Release\net10.0\runtimes\win-arm64\native\LdaNative.dll
 C:\Users\razva\Desktop\FSEGA\ANUL 1 SEM 1\MPA\Intalnirea 2\Proiect\Intalnire1\Intalnire1\bin\Release\net10.0\runtimes\win-x64\native\LdaNative.dll
 C:\Users\razva\Desktop\FSEGA\ANUL 1 SEM 1\MPA\Intalnirea 2\Proiect\Intalnire1\Intalnire1\bin\Release\net10.0\runtimes\win-x86\native\LdaNative.dll
+C:\Users\razva\Desktop\FSEGA\ANUL 1 SEM 1\MPA\Intalnirea 2\Proiect\Intalnire1\Intalnire1\bin\Release\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\razva\Desktop\FSEGA\ANUL 1 SEM 1\MPA\Intalnirea 2\Proiect\Intalnire1\Intalnire1\bin\Release\net10.0\Microsoft.Extensions.AI.Abstractions.dll
+C:\Users\razva\Desktop\FSEGA\ANUL 1 SEM 1\MPA\Intalnirea 2\Proiect\Intalnire1\Intalnire1\bin\Release\net10.0\Microsoft.Extensions.AI.OpenAI.dll
+C:\Users\razva\Desktop\FSEGA\ANUL 1 SEM 1\MPA\Intalnirea 2\Proiect\Intalnire1\Intalnire1\bin\Release\net10.0\Microsoft.OpenApi.dll
+C:\Users\razva\Desktop\FSEGA\ANUL 1 SEM 1\MPA\Intalnirea 2\Proiect\Intalnire1\Intalnire1\bin\Release\net10.0\OpenAI.dll
+C:\Users\razva\Desktop\FSEGA\ANUL 1 SEM 1\MPA\Intalnirea 2\Proiect\Intalnire1\Intalnire1\bin\Release\net10.0\Scalar.AspNetCore.dll
+C:\Users\razva\Desktop\FSEGA\ANUL 1 SEM 1\MPA\Intalnirea 2\Proiect\Intalnire1\Intalnire1\obj\Release\net10.0\Intalnire1.MvcApplicationPartsAssemblyInfo.cs

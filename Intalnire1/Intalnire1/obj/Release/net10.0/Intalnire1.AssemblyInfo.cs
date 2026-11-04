@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Intalnire1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9aad74252f4eb9395e04ad38dcef7d3c59200a87")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddc2d099717bb613a03ac3f56b71224dc935fbf6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Intalnire1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Intalnire1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
