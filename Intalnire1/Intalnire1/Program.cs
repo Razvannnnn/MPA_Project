@@ -2,9 +2,25 @@ using Biblioteca.Data;
 using Intalnire1.Api;
 using Microsoft.EntityFrameworkCore;
 using Scalar.AspNetCore;
+using Microsoft.Extensions.AI;
+using OpenAI;
+using System.ClientModel;
+
 
 var builder = WebApplication.CreateBuilder(args);
 var connectionString = builder.Configuration.GetConnectionString("LibraryContext") ?? throw new InvalidOperationException("Connection string 'LibraryContext' not found.");
+
+// OpenAIClient pentru GitHubModels (GPT-4o-mini) - vezi
+var token = builder.Configuration["GitHubModels:Token"]
+    ?? throw new InvalidOperationException("Lipsește GitHubModels:Token (User Secrets).");
+var endpoint = new Uri("https://models.github.ai/inference");
+
+IChatClient chat = new OpenAIClient(new ApiKeyCredential(token),
+        new OpenAIClientOptions { Endpoint = endpoint })
+    .GetChatClient("openai/gpt-4o-mini")
+    .AsIChatClient();
+
+
 
 builder.Services.AddDbContext<LibraryContext>(options => options.UseSqlServer(connectionString));
 
@@ -12,6 +28,7 @@ builder.Services.AddDbContext<LibraryContext>(options => options.UseSqlServer(co
 builder.Services.AddControllersWithViews();
 builder.Services.AddValidation();
 builder.Services.AddOpenApi();
+builder.Services.AddChatClient(chat);
 
 var app = builder.Build();
 

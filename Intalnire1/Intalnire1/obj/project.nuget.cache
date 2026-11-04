@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "2hxgl/MfK6E=",
+  "dgSpecHash": "btVH5fRokE4=",
   "success": true,
   "projectFilePath": "C:\\Users\\razva\\Desktop\\FSEGA\\ANUL 1 SEM 1\\MPA\\Intalnirea 2\\Proiect\\Intalnire1\\Intalnire1\\Intalnire1.csproj",
   "expectedPackageFiles": [
@@ -25,6 +25,8 @@
     "C:\\Users\\razva\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\10.0.14\\microsoft.entityframeworkcore.relational.10.0.14.nupkg.sha512",
     "C:\\Users\\razva\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\10.0.14\\microsoft.entityframeworkcore.sqlserver.10.0.14.nupkg.sha512",
     "C:\\Users\\razva\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\10.0.14\\microsoft.entityframeworkcore.tools.10.0.14.nupkg.sha512",
+    "C:\\Users\\razva\\.nuget\\packages\\microsoft.extensions.ai.abstractions\\10.11.0\\microsoft.extensions.ai.abstractions.10.11.0.nupkg.sha512",
+    "C:\\Users\\razva\\.nuget\\packages\\microsoft.extensions.ai.openai\\10.11.0\\microsoft.extensions.ai.openai.10.11.0.nupkg.sha512",
     "C:\\Users\\razva\\.nuget\\packages\\microsoft.extensions.dependencymodel\\10.0.14\\microsoft.extensions.dependencymodel.10.0.14.nupkg.sha512",
     "C:\\Users\\razva\\.nuget\\packages\\microsoft.extensions.ml\\5.0.1\\microsoft.extensions.ml.5.0.1.nupkg.sha512",
     "C:\\Users\\razva\\.nuget\\packages\\microsoft.identity.client\\4.84.2\\microsoft.identity.client.4.84.2.nupkg.sha512",
@@ -45,8 +47,9 @@
     "C:\\Users\\razva\\.nuget\\packages\\microsoft.visualstudio.solutionpersistence\\1.0.52\\microsoft.visualstudio.solutionpersistence.1.0.52.nupkg.sha512",
     "C:\\Users\\razva\\.nuget\\packages\\mono.texttemplating\\3.0.0\\mono.texttemplating.3.0.0.nupkg.sha512",
     "C:\\Users\\razva\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512",
+    "C:\\Users\\razva\\.nuget\\packages\\openai\\2.14.0\\openai.2.14.0.nupkg.sha512",
     "C:\\Users\\razva\\.nuget\\packages\\scalar.aspnetcore\\2.18.7\\scalar.aspnetcore.2.18.7.nupkg.sha512",
-    "C:\\Users\\razva\\.nuget\\packages\\system.clientmodel\\1.8.0\\system.clientmodel.1.8.0.nupkg.sha512",
+    "C:\\Users\\razva\\.nuget\\packages\\system.clientmodel\\1.15.0\\system.clientmodel.1.15.0.nupkg.sha512",
     "C:\\Users\\razva\\.nuget\\packages\\system.codedom\\9.0.4\\system.codedom.9.0.4.nupkg.sha512",
     "C:\\Users\\razva\\.nuget\\packages\\system.composition\\9.0.0\\system.composition.9.0.0.nupkg.sha512",
     "C:\\Users\\razva\\.nuget\\packages\\system.composition.attributedmodel\\9.0.0\\system.composition.attributedmodel.9.0.0.nupkg.sha512",
@@ -56,7 +59,7 @@
     "C:\\Users\\razva\\.nuget\\packages\\system.composition.typedparts\\9.0.0\\system.composition.typedparts.9.0.0.nupkg.sha512",
     "C:\\Users\\razva\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.11\\system.configuration.configurationmanager.9.0.11.nupkg.sha512",
     "C:\\Users\\razva\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.7.1\\system.identitymodel.tokens.jwt.7.7.1.nupkg.sha512",
-    "C:\\Users\\razva\\.nuget\\packages\\system.memory.data\\8.0.1\\system.memory.data.8.0.1.nupkg.sha512",
+    "C:\\Users\\razva\\.nuget\\packages\\system.memory.data\\10.0.9\\system.memory.data.10.0.9.nupkg.sha512",
     "C:\\Users\\razva\\.nuget\\packages\\system.numerics.tensors\\9.0.4\\system.numerics.tensors.9.0.4.nupkg.sha512",
     "C:\\Users\\razva\\.nuget\\packages\\system.security.cryptography.pkcs\\10.0.14\\system.security.cryptography.pkcs.10.0.14.nupkg.sha512",
     "C:\\Users\\razva\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.11\\system.security.cryptography.protecteddata.9.0.11.nupkg.sha512"

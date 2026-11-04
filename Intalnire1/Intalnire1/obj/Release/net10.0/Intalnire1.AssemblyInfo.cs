@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("3f0f0b00-20ea-498a-b16d-52cdab0c47a9")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Intalnire1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e50833c43394d6cb5fb5acf6e7e3d053a3ad6652")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9aad74252f4eb9395e04ad38dcef7d3c59200a87")]
 [assembly: System.Reflection.AssemblyProductAttribute("Intalnire1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Intalnire1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
